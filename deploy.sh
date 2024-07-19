@@ -1,4 +1,4 @@
- HEAD
+ git stash command testing
 I'm in master branch
 This is deploymentstage code and I want to add files=
 I'm in stage branch
